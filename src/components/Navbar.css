@@ -1,0 +1,40 @@
+/*NAVBAR*/
+header{
+    /* position: fixed;*/
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     background-color: #1b1b32;
+     /*z-index: 3; */
+     width: 100%;
+     padding: 1.3rem;
+     
+ }
+ 
+ .nav-item{
+     text-decoration: none;
+     color:white;
+     font-size: 20px;
+    font-weight: bold;
+    padding: 8px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .nav-link{
+    color: white;
+    
+}
+ 
+ .nav-link:hover{
+     background-color: white;
+     color: #1b1b32;
+ }
+ /*@media  (min-width: 768px){
+     header{
+         /*position: fixed;*
+         display: flex;
+         justify-content: flex-end;
+         align-items: flex-end;
+          
+     }
+ }*/

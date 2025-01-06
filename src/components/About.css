@@ -1,0 +1,29 @@
+/* EXPERIENCES */
+.experience{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    width: 100%;
+}
+.title{
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+.section-title{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 2.2rem;
+}
+.section-text{
+    font-size: 1.9rem;
+    text-align: center;
+}
+.column1{
+    text-align: center;
+}
