@@ -30,7 +30,7 @@ function Work(){
                             <div className="col1">
                                <div><p>E-SHOP</p></div>
                                <div className="link">
-                                  <a href="https://github.com/krabdoble/tp-back" target="_blank" rel="noreferrer"><i class="bi bi-github"></i></a>
+                                  <a href="https://github.com/krabdoble/E-shop" target="_blank" rel="noreferrer"><i class="bi bi-github"></i></a>
                                   <a href="https://proyecto-final-4483a.web.app" target="_blank" rel="noreferrer"><i class="bi bi-laptop"></i></a>
                                 </div>
                             </div>
@@ -46,7 +46,7 @@ function Work(){
                             <div className="col1">
                               <div><p>Booking</p></div>
                               <div className="link">
-                                <a href="https://github.com/krabdoble/lounge-project" target="_blank" rel="noreferrer" ><i className="bi bi-github"></i></a>
+                                <a href="https://github.com/krabdoble/salon-front" target="_blank" rel="noreferrer" ><i className="bi bi-github"></i></a>
                                 <a href="https://salon-project-c036b.web.app" target="_blank" rel="noreferrer"><i className="bi bi-laptop"></i></a>
                               </div>
                             </div>
@@ -61,7 +61,7 @@ function Work(){
                             <div className="col1">
                                <div><p>Portfolio</p></div>
                                <div className="link">
-                                <a href="https://github.com/krabdoble/Patrice-Lamarre-CV" target="_blank" rel="noreferrer"><i className="bi bi-github"></i></a>
+                                <a href="https://github.com/krabdoble/Patrice-Lamarre-Portfolio-front" target="_blank" rel="noreferrer"><i className="bi bi-github"></i></a>
                                 <a href="https://krabdoble.github.io/Patrice-Lamarre-CV/" target="_blank" rel="noreferrer"><i className="bi bi-laptop"></i></a>
                               </div>--
                             </div>
@@ -79,7 +79,3 @@ function Work(){
 }
 
 export default Work
-
-/*
-<img className="image-project" src="project9.jpg" alt="first work"/>
-*/
